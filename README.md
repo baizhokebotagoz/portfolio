@@ -20,3 +20,4 @@
 
 ## Как со мной связаться
 * **Telegram:** [@baizhokina](https://t.me/baizhokina)
+* **Резюме:** [Ссылка на PDF](https://github.com/baizhokebotagoz/portfolio/blob/4dd3663e2437d7756021333ba880871e5113a717/Botagoz%20Baizhokina%20CV(RU).pdf)
