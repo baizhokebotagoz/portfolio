@@ -13,7 +13,7 @@
 
 ## Реализованные проекты
 
-### [Дизайн и анализ результатов A/B-тестирования рекомендательной системы](https://www.google.com/search?q=https://github.com/baizhokebotagoz/recommendation-algorithm-ab-test)
+### [Дизайн и анализ результатов A/B-тестирования рекомендательной системы](https://github.com/baizhokebotagoz/recommendation-algorithm-ab-test)
 
 **Стек**: Python (Pandas, NumPy, Matplotlib, Seaborn, SciPy, Statsmodels), EDA, A/B-тестирование, Статистический анализ, Проверка гипотез
 
